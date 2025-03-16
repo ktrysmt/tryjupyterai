@@ -2,7 +2,8 @@
 name = "jupyter-ai-project"
 version = "0.1.0"
 dependencies = [
-    "jupyter-ai[all]>=1.0.0",
+    "jupyter-ai>=1.0.0",
+    "jupyter-ai-magics>=1.0.0",
     "jupyterlab>=4.0.0",
     "langchain-aws>=0.1.0",
 ]
